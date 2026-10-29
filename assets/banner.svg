@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Gaurav Singh — Building AI that gets things done.</title>
+<desc id="desc">Dark futuristic banner with a cyan and violet agent workflow illustration.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1425"/><stop offset="1" stop-color="#101022"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#55e6dc"/><stop offset="1" stop-color="#ab8bfa"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7181a4" stroke-opacity=".09"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="378" rx="22" fill="url(#bg)" stroke="#29354d"/>
+<rect x="1" y="1" width="1198" height="378" rx="22" fill="url(#grid)"/>
+<path d="M40 1H1160" stroke="url(#accent)" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+ <text x="56" y="64" font-family="monospace" font-size="13" letter-spacing="3" fill="#67e8df">GAURAV / AI SYSTEMS &amp; AGENTS</text>
+ <text x="52" y="137" font-size="62" font-weight="700" letter-spacing="-2" fill="#f2f5fc">Gaurav Singh<tspan fill="#67e8df">.</tspan></text>
+ <text x="56" y="192" font-size="29" fill="#e0e8f6">Building AI that</text>
+ <text x="56" y="232" font-size="29" font-weight="700" fill="#67e8df">gets things done.</text>
+ <text x="56" y="277" font-size="15" fill="#a9b6ce">From agent workflows to tools for real-world problems.</text>
+ <path d="M56 310H595" stroke="#29354d"/>
+ <text x="56" y="341" font-family="monospace" font-size="12" letter-spacing="1.3" fill="#a9b6ce">PYTHON  /  LANGGRAPH  /  LLM APPLICATIONS</text>
+</g>
+<g fill="none" stroke="#394864" stroke-width="1.5">
+ <path d="M780 114H854V182H912M780 266H854V206H912M988 194H1110V303H1010"/>
+ <circle cx="951" cy="194" r="110" stroke-dasharray="4 12" opacity=".45"/>
+ <circle cx="951" cy="194" r="141" opacity=".3"/>
+</g>
+<g font-family="monospace" font-size="11" text-anchor="middle">
+ <rect x="688" y="86" width="125" height="55" rx="10" fill="#111f31" stroke="#4ea7b1"/>
+ <text x="750" y="118" fill="#94f0e7">RESEARCH</text>
+ <rect x="688" y="238" width="125" height="55" rx="10" fill="#1a1831" stroke="#7762aa"/>
+ <text x="750" y="270" fill="#c8b7fc">REASON</text>
+ <rect x="907" y="150" width="88" height="88" rx="20" fill="#152a35" stroke="#67e8df"/>
+ <path d="M933 180L920 194L933 208M969 180L982 194L969 208M958 174L944 214" fill="none" stroke="#67e8df" stroke-width="2.5"/>
+ <text x="951" y="343" letter-spacing="3" fill="#a9b6ce">THINK → BUILD → ITERATE</text>
+ <circle cx="1110" cy="194" r="6" fill="#67e8df"/>
+ <circle cx="1010" cy="303" r="5" fill="#ab8bfa"/>
+</g>
+</svg>

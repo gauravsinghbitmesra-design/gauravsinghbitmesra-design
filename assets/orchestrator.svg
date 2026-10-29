@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="242" viewBox="0 0 570 242" role="img" aria-labelledby="title desc">
+<title id="title">Agent Orchestrator</title><desc id="desc">Research → write → edit. Stateful agents with revision loops.</desc>
+<rect x="1" y="1" width="568" height="240" rx="16" fill="#0e1726" stroke="#29354d"/>
+<path d="M25 1H135" stroke="#67e8df" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="29" y="39" font-family="monospace" font-size="11" letter-spacing="2" fill="#67e8df">PROJECT / 04</text>
+<path d="M515 33H535V53M535 33L513 55" fill="none" stroke="#67e8df" stroke-width="1.6"/>
+<text x="29" y="87" font-size="28" font-weight="700" letter-spacing="-.5" fill="#edf2fc">Agent Orchestrator</text>
+<text x="29" y="126" font-size="17" fill="#b5c1d5">Research → write → edit.</text>
+<text x="29" y="152" font-size="17" fill="#b5c1d5">Stateful agents with revision loops.</text>
+<path d="M29 180H541" stroke="#29354d"/>
+<text x="29" y="213" font-family="monospace" font-size="11" letter-spacing=".8" fill="#67e8df">PYTHON / LANGGRAPH / WORKFLOWS</text>
+</g></svg>
