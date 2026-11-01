@@ -5,7 +5,7 @@
 <p align="center">
   <strong>AI agents · Developer tools · Practical automation</strong><br />
   I build agent workflows that turn complex tasks into useful outcomes.<br />
-  My projects explore security, customer insights, and engineering workflows.
+  My projects explore security, customer insights, engineering workflows, and practical device cleanup.
 </p>
 
 <p align="center">
@@ -14,6 +14,16 @@
 </p>
 
 ## Selected builds
+
+### [Fire TV Cleanup](https://github.com/gauravsinghbitmesra-design/firetv-cleanup)
+
+Reversible **Amazon Fire TV cleanup and optimization**, a clean **Projectivy** home screen, private backups, and recovery instructions. Includes shared prompts for **ChatGPT/Codex and Claude Code**, with an observed-device profile and clearly documented compatibility limits.
+
+<p align="center">
+  <a href="https://github.com/gauravsinghbitmesra-design/firetv-cleanup"><img src="https://raw.githubusercontent.com/gauravsinghbitmesra-design/firetv-cleanup/main/assets/projectivy-home.png" width="75%" alt="Fire TV Cleanup: Projectivy Favorites home screen with streaming apps, a static background and no sponsored rows." /></a>
+</p>
+
+[Get started →](https://github.com/gauravsinghbitmesra-design/firetv-cleanup#quick-start) · [Restore guide](https://github.com/gauravsinghbitmesra-design/firetv-cleanup/blob/main/docs/restore.md) · [MIT license](https://github.com/gauravsinghbitmesra-design/firetv-cleanup/blob/main/LICENSE)
 
 <p align="center">
   <a href="https://github.com/gauravsinghbitmesra-design/ai-security-incident-copilot"><img src="./assets/security.svg" width="49%" alt="AI Security Copilot: Security scans. Log analysis. Incident response planning." /></a>
