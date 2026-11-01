@@ -15,6 +15,16 @@
 
 ## Selected builds
 
+### [Agent Footprint](https://github.com/gauravsinghbitmesra-design/agent-footprint)
+
+**What are Claude Code and Codex leaving on your laptop?** A local, read-only CLI for supported disk usage, selected process statistics and private HTML reports. No API key or runtime dependencies. MIT licensed.
+
+<p align="center">
+  <a href="https://github.com/gauravsinghbitmesra-design/agent-footprint"><img src="https://raw.githubusercontent.com/gauravsinghbitmesra-design/agent-footprint/main/assets/demo-desktop.png" width="75%" alt="Agent Footprint synthetic demo: disk categories and selected process statistics. Demo numbers, not real laptop measurements." /></a>
+</p>
+
+[Try it →](https://github.com/gauravsinghbitmesra-design/agent-footprint#try-it-in-a-minute) · [View synthetic demo](https://gauravsinghbitmesra-design.github.io/agent-footprint/)
+
 ### [Fire TV Cleanup](https://github.com/gauravsinghbitmesra-design/firetv-cleanup)
 
 Reversible **Amazon Fire TV cleanup and optimization**, a clean **Projectivy** home screen, private backups, and recovery instructions. Includes shared prompts for **ChatGPT/Codex and Claude Code**, with an observed-device profile and clearly documented compatibility limits.
